@@ -1,0 +1,45 @@
+.skill-panel {
+  display: grid;
+  -webkit-box-pack: center;
+  justify-content: center;
+  grid-template-columns: repeat(auto-fill, 120px);
+  gap: 40px;
+  max-width: 1300px;
+  margin: 20px auto;
+}
+
+.skill-panel > .skill-card {
+  position: relative;
+  width: 120px;
+  height: 120px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 1px 1px 3px;
+  display: flex;
+  flex-direction: column;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  cursor: pointer;
+  padding: 5px;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.skill-panel > .skill-card > div:first-child {
+  display:inline-block;
+  max-width:100%;
+  overflow:hidden;
+  position:relative;
+  box-sizing:border-box;
+  z-index: 11;
+  margin:0
+}
+
+.skill-panel > .skill-card > span {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+  /* margin-top: 40px; */
+  z-index: 10;
+}

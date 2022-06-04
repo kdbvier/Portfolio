@@ -1,0 +1,201 @@
+{
+  "main": {
+    "name":"Meng Lin",
+    "description":"I am a software engineer who is experienced in web/app/blockchain development. This project is a resume webpage that can be used as the project landing page or resume page. Built with react",
+    "image":"profilepic.png",
+    "bio":"Creative and results-oriented Blockchain Full Stack Software Engineer with a focus on the design and implementation of backend side. Skilled in agile processes, backend and frontend development, and creating financial dApp on blockchain. Lover of everything related to generate innovation and new knowledge. Problem solver who faces them with a smile and solves them as quickly as possible. I am interested in winter sports such as snowboarding. I worked with Software Development Life Cycle(SDLC) and agile methodologies And I am familiar with blockchain concepts and know how to implement Expertise in Rust, Cosmwasm, Solidity, Contract, Truffle & Hardhat and Web3 / Angular, React, Javascript, Node JS and UI with Responsive Designs.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "kdbvier@gmail.com",
+    "telegram": "vdg0524",
+    "github":"https://github.com/kdbvier",
+    "project":"#"
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"The University Of Hong Kong",
+        "degree":"Bachelor's degree in computer science",
+        "graduated":"June 2016",
+        "description":"Be honored with bachelor's degree in Computer Science under the robust educational background. I studied about Web development, Software Engineering, App Development and Project management"
+      }
+    ],
+    "work":[
+      {
+        "company":"Maui fi",
+        "title":"Smartcontract Developer & Full Stack Developer",
+        "years":"Sep 2021 - May 2022",
+        "description":"I was owed a comfortable and easy-to-manage environment and blockchain applications. For this, I developed smartcontracts using terra.js and integrated it with frontend. I published a pre-sale web application to help the team raise over $1.5 million. Technologies: Git, AWS, npmjs, React, TypeScript, Rust, Terra.js, ICO, NodeJS, Express, MongoDB"
+      },
+      {
+        "company":"Sphynx",
+        "title":"Smartcontract Developer",
+        "years":"Jan 2021 - Sep 2021",
+        "description":"I needed to develop smartcontracts for a crypto exchange platform and app. I developed successfully by using solidity. Technologies: Solidity, Hardhat, Web3, Ethereum"
+      },
+      {
+        "company":"Elpise",
+        "title":"Full Stack / Smart contract developer",
+        "years":"Apr 2020 - Dec 2020",
+        "description":"Developed and deployed NFT contract. Developed NFT Marketplace platform - DeFi. Implemented platform with blockchain network. Technologies: React, Web3, JavaScript, Blockchain, Solidity, Smart contract, Hardhat, NFT"
+      },
+      {
+        "company":"Upwork",
+        "title":"Full Stack Developer",
+        "years":"Feb 2017 - Mar 2020",
+        "description":"In this period, I got 30 jobs with $ 150k earning and 100% Top Rated. I developed 20+ websites & 5 mobile apps."
+      }
+    ],
+    "skills":[
+      {
+        "id": 1,
+        "name": "Rust",
+        "image": "images/skills/rust.svg"
+      },
+      {
+        "id": 2,
+        "name": "Cosmwasm",
+        "image": "images/skills/cosmwasm.svg"
+      },
+      {
+        "id": 3,
+        "name": "Near",
+        "image": "images/skills/near.svg"
+      },
+      {
+        "id": 4,
+        "name": "Solidity",
+        "image": "images/skills/solidity.svg"
+      },
+      {
+        "id": 5,
+        "name": "HTML5",
+        "image": "images/skills/html-5.svg"
+      },
+      {
+        "id": 6,
+        "name": "CSS3",
+        "image": "images/skills/css3.svg"
+      },
+      {
+        "id": 7,
+        "name": "JavaScript",
+        "image": "images/skills/javascript.svg"
+      },
+      {
+        "id": 8,
+        "name": "TypeScript",
+        "image": "images/skills/typescript.svg"
+      },
+      {
+        "id": 9,
+        "name": "Angular",
+        "image": "images/skills/angular.svg"
+      },
+      {
+        "id": 10,
+        "name": "React",
+        "image": "images/skills/react.svg"
+      },
+      {
+        "id": 11,
+        "name": "Vue",
+        "image": "images/skills/vue.svg"
+      },
+      {
+        "id": 12,
+        "name": "NodeJS",
+        "image": "images/skills/node-js.svg"
+      },
+      {
+        "id": 13,
+        "name": "Git",
+        "image": "images/skills/git.svg"
+      },
+      {
+        "id": 14,
+        "name": "Github",
+        "image": "images/skills/github.svg"
+      },
+      {
+        "id": 15,
+        "name": "MongoDB",
+        "image": "images/skills/mongodb.png"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Smart Contract",
+        "category":"Blockchain Development",
+        "image":"blockchain-smart-contract.png",
+        "url":"#",
+        "skills": "Solidity/Rust/Remix"
+      },
+      {
+        "title":"DEX",
+        "category":"Blockchain Development",
+        "image":"dex.png",
+        "url":"#",
+        "skills": "Solidity/Rust/Remix"
+      },
+      {
+        "title":"SideSwap",
+        "category":"App Development",
+        "image":"app-sideswap.png",
+        "url":"#",
+        "skills": "Dart/Flutter/Android"
+      },
+      {
+        "title":"Nft staking",
+        "category":"Blockchain Development",
+        "image":"blockchain-nft.png",
+        "url":"https://app.xconsoles.tv/",
+        "skills": "React/Solidity/NFT"
+      },
+      {
+        "title":"Spot market",
+        "category":"Blockchain Development",
+        "image":"blockchain-spotmarket.png",
+        "url":"https://www.spot.market/",
+        "skills": "NFT/Market/React"
+      },
+      {
+        "title":"Epic game UI",
+        "category":"Blockchain Development",
+        "image":"game-epic-nft.png",
+        "url":"https://epic-game-ui.vercel.app/",
+        "skills": "NFT/Game/NextJS/BSC(test)"
+      },
+      {
+        "title":"React JS",
+        "category":"Web Development",
+        "image":"web-react.jpg",
+        "url":"#",
+        "skills": "React/JavaScript/SCSS"
+      },
+      {
+        "title":"NodeJS",
+        "category":"Web Development",
+        "image":"nodejs.jpg",
+        "url":"#",
+        "skills": "NodeJS/Backend/TypeScript"
+      },
+      {
+        "title":"Pure HTML",
+        "category":"Web Development",
+        "image":"web-html.png",
+        "url":"#",
+        "skills": "HTML/JavaScript/CSS/Frontend"
+      },
+      {
+        "title":"Server Manage",
+        "category":"Management",
+        "image":"manage-pm2.png",
+        "url":"#",
+        "skills": "DigitalOcean/Ubuntu/pm2"
+      }
+    ]
+  }
+}
